@@ -577,8 +577,8 @@
 			</Description>
             <CubeSize>Large</CubeSize>
             <BlockTopology>TriangleMesh</BlockTopology>
-            <Size x="1" y="2" z="8" />
-            <ModelOffset x="0" y="0" z="0" />
+            <Size x="1" y="2" z="9" />
+            <ModelOffset x="0" y="0" z="-1" />
             <Model>Models\Cubes\Large\RailGun.mwm</Model>
             <Components>
 				<Component Subtype="1x1FixedGunHarnessComponent" Count="2" />
